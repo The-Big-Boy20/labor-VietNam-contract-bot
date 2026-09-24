@@ -1,0 +1,9384 @@
+{
+ "hoan kiem": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "cua nam": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "ba dinh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "ngoc ha": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "giang vo": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "hai ba trung": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "vinh tuy": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "bach mai": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "dong da": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "kim lien": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "van mieu - quoc tu giam": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "lang": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "o cho dua": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "hong ha": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "linh nam": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "hoang mai": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "vinh hung": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "tuong mai": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "dinh cong": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "hoang liet": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "yen so": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "thanh xuan": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "khuong dinh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "phuong liet": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "cau giay": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "nghia do": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "yen hoa": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "tay ho": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "phu thuong": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "tay tuu": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "phu dien": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "xuan dinh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "dong ngac": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "thuong cat": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "tu liem": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "xuan phuong": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "tay mo": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "dai mo": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "long bien": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "bo de": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "viet hung": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "phuc loi": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "ha dong": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  }
+ ],
+ "duong noi": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "yen nghia": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "phu luong": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "kien hung": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "thanh liet": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "chuong my": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "son tay": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "tung thien": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "thanh tri": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "dai thanh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "nam phu": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "ngoc hoi": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "thuong phuc": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "thuong tin": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "chuong duong": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "hong van": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "phu xuyen": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "thanh oai": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "binh minh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "tam hung": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "dan hoa": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "phu nghia": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "xuan mai": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "tran phu": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "hoa phu": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "quang bi": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "yen bai": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "doai phuong": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "thach that": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "ha bang": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "tay phuong": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "hoa lac": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "yen xuan": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "quoc oai": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "hung dao": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "kieu phu": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "phu cat": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "hoai duc": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "duong hoa": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "III"
+  }
+ ],
+ "son dong": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "an khanh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "gia lam": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "thuan an": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Huế",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "bat trang": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "phu dong": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "thu lam": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "dong anh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "phuc thinh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "thien loc": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "vinh thanh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "me linh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "yen lang": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "tien thang": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "quang minh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "soc son": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "da phuc": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "noi bai": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "trung gia": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "kim anh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "o dien": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  }
+ ],
+ "lien minh": [
+  {
+   "province": "Thành phố Hà Nội",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "thuc phan": [
+  {
+   "province": "Tỉnh Cao Bằng",
+   "region": "III"
+  }
+ ],
+ "nung tri cao": [
+  {
+   "province": "Tỉnh Cao Bằng",
+   "region": "III"
+  }
+ ],
+ "tan giang": [
+  {
+   "province": "Tỉnh Cao Bằng",
+   "region": "III"
+  }
+ ],
+ "my lam": [
+  {
+   "province": "Tỉnh Tuyên Quang",
+   "region": "III"
+  }
+ ],
+ "minh xuan": [
+  {
+   "province": "Tỉnh Tuyên Quang",
+   "region": "III"
+  }
+ ],
+ "nong tien": [
+  {
+   "province": "Tỉnh Tuyên Quang",
+   "region": "III"
+  }
+ ],
+ "an tuong": [
+  {
+   "province": "Tỉnh Tuyên Quang",
+   "region": "III"
+  }
+ ],
+ "binh thuan": [
+  {
+   "province": "Tỉnh Tuyên Quang",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "ha giang 1": [
+  {
+   "province": "Tỉnh Tuyên Quang",
+   "region": "III"
+  }
+ ],
+ "ha giang 2": [
+  {
+   "province": "Tỉnh Tuyên Quang",
+   "region": "III"
+  }
+ ],
+ "ngoc duong": [
+  {
+   "province": "Tỉnh Tuyên Quang",
+   "region": "III"
+  }
+ ],
+ "dien bien phu": [
+  {
+   "province": "Tỉnh Điện Biên",
+   "region": "III"
+  }
+ ],
+ "muong thanh": [
+  {
+   "province": "Tỉnh Điện Biên",
+   "region": "III"
+  }
+ ],
+ "muong phang": [
+  {
+   "province": "Tỉnh Điện Biên",
+   "region": "III"
+  }
+ ],
+ "na tau": [
+  {
+   "province": "Tỉnh Điện Biên",
+   "region": "III"
+  }
+ ],
+ "tan phong": [
+  {
+   "province": "Tỉnh Lai Châu",
+   "region": "III"
+  }
+ ],
+ "doan ket": [
+  {
+   "province": "Tỉnh Lai Châu",
+   "region": "III"
+  }
+ ],
+ "to hieu": [
+  {
+   "province": "Tỉnh Sơn La",
+   "region": "III"
+  }
+ ],
+ "chieng an": [
+  {
+   "province": "Tỉnh Sơn La",
+   "region": "III"
+  }
+ ],
+ "chieng coi": [
+  {
+   "province": "Tỉnh Sơn La",
+   "region": "III"
+  }
+ ],
+ "chieng sinh": [
+  {
+   "province": "Tỉnh Sơn La",
+   "region": "III"
+  }
+ ],
+ "cam duong": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "II"
+  }
+ ],
+ "lao cai": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "II"
+  }
+ ],
+ "coc san": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "II"
+  }
+ ],
+ "hop thanh": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "gia phu": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "II"
+  }
+ ],
+ "van phu": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "nam cuong": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "au lau": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "sa pa": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "phong hai": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "xuan quang": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "bao thang": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "tang loong": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "muong bo": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "ban ho": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "ta phin": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "ta van": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "ngu chi son": [
+  {
+   "province": "Tỉnh Lào Cai",
+   "region": "III"
+  }
+ ],
+ "phan dinh phung": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "linh son": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "tich luong": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "gia sang": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "quyet thang": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "quan trieu": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "pho yen": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "van xuan": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "trung thanh": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "phuc thuan": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "song cong": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "ba xuyen": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "bach quang": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "tan cuong": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "dai phuc": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "thanh cong": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "II"
+  }
+ ],
+ "duc xuan": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "bac kan": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "dai tu": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "duc luong": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "phu thinh": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "la bang": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "phu lac": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "quan chu": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "phu binh": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "tan thanh": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "II"
+  }
+ ],
+ "diem thuy": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "kha son": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "tan khanh": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "dong hy": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "quang son": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "trai cau": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "nam hoa": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "van han": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "van lang": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "vo tranh": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "yen trach": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  }
+ ],
+ "phong quang": [
+  {
+   "province": "Tỉnh Thái Nguyên",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "tam thanh": [
+  {
+   "province": "Tỉnh Lạng Sơn",
+   "region": "III"
+  }
+ ],
+ "luong van tri": [
+  {
+   "province": "Tỉnh Lạng Sơn",
+   "region": "III"
+  }
+ ],
+ "ky lua": [
+  {
+   "province": "Tỉnh Lạng Sơn",
+   "region": "III"
+  }
+ ],
+ "dong kinh": [
+  {
+   "province": "Tỉnh Lạng Sơn",
+   "region": "III"
+  }
+ ],
+ "an sinh": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "dong trieu": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "binh khe": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "mao khe": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "hoang que": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "yen tu": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "vang danh": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "uong bi": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "dong mai": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "hiep hoa": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "quang yen": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "ha an": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "phong coc": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "lien hoa": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "tuan chau": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "bai chay": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "ha tu": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "ha lam": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "cao xanh": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "hong gai": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "ha long": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hoanh bo": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "mong cai 1": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "mong cai 2": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "mong cai 3": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "quang la": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "thong nhat": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "hai son": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "hai ninh": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "vinh thuc": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "I"
+  }
+ ],
+ "mong duong": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "II"
+  }
+ ],
+ "quang hanh": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "II"
+  }
+ ],
+ "cam pha": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "II"
+  }
+ ],
+ "cua ong": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "II"
+  }
+ ],
+ "hai hoa": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "II"
+  }
+ ],
+ "tien yen": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "III"
+  }
+ ],
+ "dien xa": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "III"
+  }
+ ],
+ "dong ngu": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "III"
+  }
+ ],
+ "hai lang": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "III"
+  }
+ ],
+ "quang tan": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "III"
+  }
+ ],
+ "dam ha": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "III"
+  }
+ ],
+ "quang ha": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "III"
+  }
+ ],
+ "quang duc": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "III"
+  }
+ ],
+ "cai chien": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "III"
+  }
+ ],
+ "van don": [
+  {
+   "province": "Tỉnh Quảng Ninh",
+   "region": "III"
+  }
+ ],
+ "kinh bac": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "vo cuong": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "vu ninh": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "hap linh": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "nam son": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "tu son": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "tam son": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "dong nguyen": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "phu khe": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "thuan thanh": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "mao dien": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "tram lo": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "tri qua": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "song lieu": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "ninh xa": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "que vo": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "phuong lieu": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "nhan hoa": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "dao vien": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "bong lai": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "tu lan": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "viet yen": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "nenh": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "van ha": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "bac giang": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "da mai": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "tien phong": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "tan an": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "yen dung": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "tan tien": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "canh thuy": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "chi lang": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "phu lang": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "yen phong": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "van mon": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "tam giang": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "yen trung": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "tam da": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "tien du": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "lien bao": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "tan chi": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "dai dong": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "phat tich": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "gia binh": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "nhan thang": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "dai lai": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "cao duc": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "dong cuu": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "luong tai": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "lam thao": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "trung chinh": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "trung kenh": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "dong viet": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "II"
+  }
+ ],
+ "lang giang": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  }
+ ],
+ "my thai": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  }
+ ],
+ "kep": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  }
+ ],
+ "tan dinh": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tien luc": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  }
+ ],
+ "tan yen": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  }
+ ],
+ "ngoc thien": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  }
+ ],
+ "nha nam": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  }
+ ],
+ "phuc hoa": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  }
+ ],
+ "quang trung": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "hop thinh": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  }
+ ],
+ "hoang van": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  }
+ ],
+ "xuan cam": [
+  {
+   "province": "Tỉnh Bắc Ninh",
+   "region": "III"
+  }
+ ],
+ "viet tri": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "nong trang": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "thanh mieu": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "vinh phuc": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "vinh yen": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "phuc yen": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "xuan hoa": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "hoa binh": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "ky son": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "tan hoa": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "hy cuong": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "yen lac": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "te lo": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "lien chau": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "tam hong": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "nguyet duc": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "binh nguyen": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "xuan lang": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "binh xuyen": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "binh tuyen": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "luong son": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "cao duong": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "lien son": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "thinh minh": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "II"
+  }
+ ],
+ "phong chau": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "phu tho": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "au co": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "xuan lung": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "phung nguyen": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "ban nguyen": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "phu ninh": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "dan chu": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "phu my": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "tram than": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "binh phu": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "thanh ba": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "hoang cuong": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "dong thanh": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "chi tien": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "tam nong": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "tho van": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "hien quan": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "song lo": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "hai luu": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "lap thach": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "tien lu": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "thai hoa": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "hop ly": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "tam dao": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "dai dinh": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "dao tru": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "tam duong": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "hoi thinh": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "hoang an": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "tam duong bac": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "vinh tuong": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "tho tang": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  }
+ ],
+ "vinh an": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "vinh phu": [
+  {
+   "province": "Tỉnh Phú Thọ",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "thuy nguyen": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "thien huong": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "nam trieu": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "bach dang": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "luu kiem": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "le ich moc": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "hong bang": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "hong an": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "ngo quyen": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "gia vien": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "le chan": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "an bien": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "hai an": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "dong hai": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "kien an": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "phu lien": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "nam do son": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "do son": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "duong kinh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "an duong": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "an hai": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "an phong": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "hai duong": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "le thanh nghi": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "viet hoa": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "thanh dong": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "nam dong": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "tan hung": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "thach khoi": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "tu minh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "ai quoc": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "chu van an": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "chi linh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "tran hung dao": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "nguyen trai": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "tran nhan tong": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "le dai hanh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "kinh mon": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "nguyen dai nang": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "tran lieu": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "bac an phu": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "pham su manh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "nhi chieu; cac xa an hung": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "an quang": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "an truong": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "an lao": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "kien thuy": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "kien minh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "kien hai": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "nghi duong": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "tien lang": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "tan minh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "tien minh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "chan hung": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "hung thang": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "vinh bao": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "nguyen binh khiem": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "vinh am": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "vinh hai": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "vinh hoa": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "vinh thuan": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "vinh thinh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "viet khe": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "nam an phu": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "nam sach": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "thai tan": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "hop tien": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "an phu": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "cam giang": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "tue tinh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "ke sat": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "binh giang": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "duong an": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "thuong hong": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "gia loc": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "yet kieu": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "gia phuc": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "truong tan": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "tu ky": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "tan ky": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "dai son": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "chi minh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "lac phuong": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "nguyen giap": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "nguyen luong bang": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "phu thai": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "lai khe": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "an thanh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "kim thanh": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "cat hai": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "I"
+  }
+ ],
+ "thanh ha": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  }
+ ],
+ "ha tay": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  }
+ ],
+ "ha bac": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  }
+ ],
+ "ha nam": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "ninh giang": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "vinh lai": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  }
+ ],
+ "khuc thua du": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  }
+ ],
+ "hong chau": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "thanh mien": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  }
+ ],
+ "bac thanh mien": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  }
+ ],
+ "nam thanh mien": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  }
+ ],
+ "hai hung": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "bach long vi": [
+  {
+   "province": "Thành phố Hải Phòng",
+   "region": "II"
+  }
+ ],
+ "pho hien": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "son nam": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "my hao": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "duong hao": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "thai binh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "tran lam": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "tra ly": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "vu phuc": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "yen my": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "hoan long": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "nguyen van linh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "nhu quynh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "lac dao": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "nghia tru": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "phung cong": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "van giang": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "me so": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "II"
+  }
+ ],
+ "hoang hoa tham": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "tien hoa": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "quang hung": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "doan dao": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "tien tien": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "tong tran": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "luong bang": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "nghia dan": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "hiep cuong": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "duc hop": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "an thi": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "xuan truc": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "pham ngu lao": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "hong quang": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  }
+ ],
+ "khoai chau": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "trieu viet vuong": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "viet tien": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "chau ninh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "thai thuy": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "dong thuy anh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "bac thuy anh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "thuy anh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "nam thuy anh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "bac thai ninh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "thai ninh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "dong thai ninh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "nam thai ninh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "tay thai ninh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "tay thuy anh": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "tien hai": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "tay tien hai": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "dong chau": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "dong tien hai": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "hung phu": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "nam tien hai": [
+  {
+   "province": "Tỉnh Hưng Yên",
+   "region": "III"
+  }
+ ],
+ "tay hoa lu": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  }
+ ],
+ "hoa lu": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  }
+ ],
+ "nam hoa lu": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  }
+ ],
+ "dong hoa lu": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  }
+ ],
+ "nam dinh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  }
+ ],
+ "thien truong": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  }
+ ],
+ "dong a": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  }
+ ],
+ "vi khe": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  }
+ ],
+ "thanh nam": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  }
+ ],
+ "truong thi": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  }
+ ],
+ "my loc": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "tam diep": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "yen son": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "trung son": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "yen thang": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "phu ly": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "phu van": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "chau son": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "liem tuyen": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "duy tien": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "duy tan": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "dong van": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "duy ha": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "tien son": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "le ho": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "nguyen uy": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "ly thuong kiet": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "tam chuc": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "kim bang": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "dai hoang": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "gia hung": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "gia phong": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "gia van": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "gia tran": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "yen khanh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "khanh nhac": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "khanh thien": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "khanh hoi": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "khanh trung": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "nam truc": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "nam minh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "nam ninh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "nam hong": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "minh tan": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "hien khanh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "vu ban": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "y yen": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "yen dong": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "yen cuong": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "van thang": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "vu duong": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "phong doanh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "co le": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "cat thanh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "truc ninh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "minh thai": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "ninh cuong": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "xuan truong": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "xuan hung": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "xuan giang": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "xuan hong": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "hai hau": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "hai anh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "hai tien": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "hai quang": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "hai xuan": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "hai thinh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "giao minh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "giao hoa": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "giao thuy": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "giao phuc": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "giao hung": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "giao binh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "giao ninh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "dong thinh": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "nghia hung": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "nghia son": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "hong phong": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "quy nhat": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "nghia lam": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "rang dong": [
+  {
+   "province": "Tỉnh Ninh Bình",
+   "region": "III"
+  }
+ ],
+ "hac thanh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "quang phu": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "dong quang": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "dong son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "dong tien": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "ham rong": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "nguyet vien": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "sam son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "nam sam son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "bim son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "ngoc son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "tan dan": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "hai linh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "tinh gia": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "dao duy tu": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "hai binh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "truc lam": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "nghi son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "truong lam": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "cac son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "II"
+  }
+ ],
+ "ha trung": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "tong son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hoat giang": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "linh toai": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "trieu loc": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hau loc": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hoa loc": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "van loc": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "nga son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "nga thang": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "ho vuong": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "nga an": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hoang hoa": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hoang tien": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hoang thanh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hoang loc": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hoang chau": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hoang son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hoang phu": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "hoang giang": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "luu ve": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "quang ngoc": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "quang ninh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "quang binh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "tien trang": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "quang chinh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "nong cong": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "thang loi": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "truong van": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "thang binh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "tuong linh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "cong chinh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "thieu hoa": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "thieu quang": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "thieu tien": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "thieu toan": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "thieu trung": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "yen dinh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "yen truong": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "yen phu": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "quy loc": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "yen ninh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "dinh tan": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "dinh hoa": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "tho xuan": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "tho long": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "sao vang": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "lam son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "tho lap": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "xuan tin": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "xuan lap": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "vinh loc": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tay do": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "bien thuong": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "trieu son": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "tho binh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "tho ngoc": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "tho phu": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "an nong": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  }
+ ],
+ "tan ninh": [
+  {
+   "province": "Tỉnh Thanh Hóa",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "tan mai": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "truong vinh": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "thanh vinh": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "cua lo": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "hung nguyen": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "hung nguyen nam": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "lam thanh": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "nghi loc": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "phuc loc": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "dong loc": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "trung loc": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "than linh": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "hai loc": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "van kieu": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "II"
+  }
+ ],
+ "quynh mai": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "tay hieu": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "dien chau": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "duc chau": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "quang chau": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "hai chau": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "tan chau": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "an chau": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "minh chau": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "hung chau": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "do luong": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "bach ngoc": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "van hien": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "bach ha": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "thuan trung": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "van an": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "nam dan": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "dai hue": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "thien nhan": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "nghia tho": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "nghia mai": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "nghia khanh": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "nghia loc": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "quynh luu": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "quynh van": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "quynh anh": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "quynh tam": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "quynh phu": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "quynh son": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "quynh thang": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "dong hieu": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "yen thanh": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "quan thanh": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "hop minh": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "van tu": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "van du": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "quang dong": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "giai lac": [
+  {
+   "province": "Tỉnh Nghệ An",
+   "region": "III"
+  }
+ ],
+ "song tri": [
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "hoanh son": [
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "vung ang": [
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "thanh sen": [
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "ha huy tap": [
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "thach lac": [
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "thach khe": [
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "cam binh": [
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "ky hoa": [
+  {
+   "province": "Tỉnh Hà Tĩnh",
+   "region": "III"
+  }
+ ],
+ "dong hoi": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "II"
+  }
+ ],
+ "dong thuan": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "dong ha": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "II"
+  }
+ ],
+ "nam dong ha": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "II"
+  }
+ ],
+ "quang tri": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "ba don": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "bac gianh": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "nam gianh": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "nam ba don": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "tan gianh": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "trung thuan": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "quang trach": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "hoa trach": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "phu trach": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "phong nha": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "bac trach": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "dong trach": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "hoan lao": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "bo trach": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "nam trach": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "ninh chau": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "truong ninh": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "le thuy": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "cam hong": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "sen ngu": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "tan my": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "truong phu": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "le ninh": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "dong le": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "vinh linh": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "cua tung": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "ben quan": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "cua viet": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "gio linh": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "cam lo": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "khe sanh": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "lao bao": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "trieu phong": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "huong hiep": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "dien sanh": [
+  {
+   "province": "Tỉnh Quảng Trị",
+   "region": "III"
+  }
+ ],
+ "hoa chau": [
+  {
+   "province": "Thành phố Huế",
+   "region": "II"
+  }
+ ],
+ "my thuong": [
+  {
+   "province": "Thành phố Huế",
+   "region": "II"
+  }
+ ],
+ "vy da": [
+  {
+   "province": "Thành phố Huế",
+   "region": "II"
+  }
+ ],
+ "thuan hoa": [
+  {
+   "province": "Thành phố Huế",
+   "region": "II"
+  }
+ ],
+ "an cuu": [
+  {
+   "province": "Thành phố Huế",
+   "region": "II"
+  }
+ ],
+ "thuy xuan": [
+  {
+   "province": "Thành phố Huế",
+   "region": "II"
+  }
+ ],
+ "kim long": [
+  {
+   "province": "Thành phố Huế",
+   "region": "II"
+  }
+ ],
+ "huong an": [
+  {
+   "province": "Thành phố Huế",
+   "region": "II"
+  }
+ ],
+ "phu xuan": [
+  {
+   "province": "Thành phố Huế",
+   "region": "II"
+  }
+ ],
+ "duong no": [
+  {
+   "province": "Thành phố Huế",
+   "region": "II"
+  }
+ ],
+ "phong dien": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "phong thai": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "phong dinh": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "phong phu": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "huong tra": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "kim tra": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "huong thuy": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "phu bai": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "thanh thuy": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "dan dien": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "quang dien": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "binh dien": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "phu vinh": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "phu ho": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "phu vang": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "hung loc": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "loc an": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "phu loc": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "chan may - lang co": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "long quang": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "khe tre": [
+  {
+   "province": "Thành phố Huế",
+   "region": "III"
+  }
+ ],
+ "hoa cuong": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "thanh khe": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "an khe": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "son tra": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "ngu hanh son": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "hoa khanh": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "hai van": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "lien chieu": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "cam le": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "hoa xuan": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "tam ky": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "ban thach": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "hoi an": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "hoi an dong": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "hoi an tay": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "hoa vang": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "hoa tien": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "ba na": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "tan hiep": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "hoang sa": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "II"
+  }
+ ],
+ "dien ban": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "dien ban dong": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "an thang": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "dien ban bac": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "nui thanh": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "tam my": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "tam anh": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "duc phu": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "tam xuan": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "tam hai": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "chien dan": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "thang an": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "thang truong": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "thang dien": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "thang phu": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "dong duong": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "que son trung": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "que son": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "xuan phu": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "nong son": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "que phuoc": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "duy nghia": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "nam phuoc": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "duy xuyen": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "thu bon": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "dien ban tay": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "go noi": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "dai loc": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "ha nha": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "thuong duc": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "vu gia": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  }
+ ],
+ "phu thuan": [
+  {
+   "province": "Thành phố Đà Nẵng",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "truong quang trong": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "cam thanh": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "nghia lo": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "kon tum": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "dak cam": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "dak bla": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "tinh khe": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "binh chuong": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "binh son": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "van tuong": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "truong giang": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "ba gia": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "son tinh": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "tho phong": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "ngok bay": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "ia chim": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "dak ro wa": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "dak pxi": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "dak mar": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "dak ui": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "dak ha": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "ngok reo": [
+  {
+   "province": "Tỉnh Quảng Ngãi",
+   "region": "III"
+  }
+ ],
+ "quy nhon": [
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  }
+ ],
+ "quy nhon dong": [
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  }
+ ],
+ "quy nhon tay": [
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  }
+ ],
+ "quy nhon nam": [
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  }
+ ],
+ "quy nhon bac": [
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  }
+ ],
+ "pleiku": [
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  }
+ ],
+ "hoi phu": [
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  }
+ ],
+ "dien hong": [
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "bien ho": [
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  }
+ ],
+ "gao": [
+  {
+   "province": "Tỉnh Gia Lai",
+   "region": "III"
+  }
+ ],
+ "nha trang": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "bac nha trang": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "tay nha trang": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "nam nha trang": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "bac cam ranh": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "cam ranh": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "cam linh": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "ba ngoi": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "ninh hoa": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "dong ninh hoa": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "hoa thang": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "phan rang": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "ninh chu": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "bao an": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "do vinh": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "nam cam ranh": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "bac ninh hoa": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "nam ninh hoa": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "tay ninh hoa": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "hoa tri": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "thuan bac": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "cong hai": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "II"
+  }
+ ],
+ "dai lanh": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "tu bong": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "van ninh": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "van hung": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "dien khanh": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "dien lac": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "dien dien": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "suoi hiep": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "dien tho": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "dien lam": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "cam lam": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "suoi dau": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "cam hiep": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "cam an": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "ninh phuoc": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "phuoc huu": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "phuoc hau": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "phuoc dinh": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "ninh hai": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "xuan hai": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "ninh son": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "anh dung": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "my son": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "thuan nam": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "ca na": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "phuoc ha": [
+  {
+   "province": "Tỉnh Khánh Hòa",
+   "region": "III"
+  }
+ ],
+ "buon ma thuot": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "tan lap": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "xuan dai": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "song cau": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "thanh nhat": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "ea kao": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "tuy hoa": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "phu yen": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "binh kien": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "dong hoa": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "hoa hiep": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "xuan tho": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "xuan canh": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  }
+ ],
+ "xuan loc": [
+  {
+   "province": "Tỉnh Đắk Lắk",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "xuan huong - da lat": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "cam ly - da lat": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "lam vien - da lat": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "xuan truong - da lat": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "lang biang - da lat": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "1 bao loc": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "2 bao loc": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "3 bao loc": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "b' lao": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "ham thang": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "mui ne": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "phu thuy": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "phan thiet": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "tien thanh": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "tuyen quang": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "II"
+  }
+ ],
+ "la gi": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "phuoc hoi": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "bac gia nghia": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "nam gia nghia": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "dong gia nghia": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "hiep thanh": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "II"
+  }
+ ],
+ "duc trong": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "tan hoi": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "ta hine": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "ta nang": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "dinh van lam ha": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "di linh": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "hoa ninh": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "hoa bac": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "dinh trang thuong": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "bao thuan": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "son dien": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "gia hiep": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "tan hai": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "dong giang": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "la da": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "ham thuan bac": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "ham thuan": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "hong son": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "ham liem": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "ham thanh": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "ham kiem": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "ham thuan nam": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "ninh gia": [
+  {
+   "province": "Tỉnh Lâm Đồng",
+   "region": "III"
+  }
+ ],
+ "bien hoa": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "tran bien": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "tam hiep": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "long binh": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "trang dai": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "ho nai": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "long hung": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  }
+ ],
+ "binh loc": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "bao vinh": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "long khanh": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "hang gon": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "tan trieu": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "phuoc tan": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "tam phuoc": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "dai phuoc": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "nhon trach": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "phuoc an": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "phuoc thai": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "long phuoc": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh an": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "long thanh": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "an phuoc": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "an vien": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "trang bom": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "bau ham": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "hung thinh": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "dau giay": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "gia kiem": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "xuan duong": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "xuan dong": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "xuan thanh": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "xuan bac": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "tri an": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "I"
+  }
+ ],
+ "minh hung": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "chon thanh": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "dong xoai": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "binh phuoc": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "xuan que": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "cam my": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "song ray": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "la nga": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "dinh quan": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "phu hoa": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "ta lai": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "nam cat tien": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "tan phu": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "phu lam": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "nha bich": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "tan quan": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "thuan loi": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "dong tam": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "tan loi": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "dong phu": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "dak lua": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "thanh son": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "II"
+  }
+ ],
+ "binh long": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "an loc": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "phuoc binh": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "phuoc long": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan khai": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "minh duc": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "loc thanh": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "loc ninh": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "loc hung": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "loc tan": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "loc quang": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "binh tan": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "long ha": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "phu rieng": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "phu trung": [
+  {
+   "province": "Tỉnh Đồng Nai",
+   "region": "III"
+  }
+ ],
+ "sai gon": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "ben thanh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "cau ong lanh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "ban co": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "nhieu loc": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "xom chieu": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "vinh hoi": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "cho quan": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "an dong": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "cho lon": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh tay": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh tien": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan thuan": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "chanh hung": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "phu dinh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh dong": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "vuon lai": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "hoa hung": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "minh phung": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh thoi": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "dong hung thuan": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "trung my tay": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan thoi hiep": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "thoi an": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "an phu dong": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "an lac": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan tao": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh tri dong": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh hung hoa": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "gia dinh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh thanh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "binh loi trung": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "thanh my tay": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "binh quoi": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "hanh thong": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "an nhon": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "go vap": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "an hoi dong": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "thong tay hoi": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "an hoi tay": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "duc nhuan": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "cau kieu": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "phu nhuan": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan son hoa": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan son nhat": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "bay hien": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan binh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan son": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan son nhi": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "phu tho hoa": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "phu thanh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "hiep binh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "thu duc": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tam binh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "linh xuan": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tang nhon phu": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "long truong": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "cat lai": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh trung": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  }
+ ],
+ "di an": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan dong hiep": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh hoa": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "lai thieu": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "thuan giao": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "thu dau mot": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "phu loi": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "chanh hiep": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh duong": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "hoa loi": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "thoi hoa": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "phu an": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tay nam": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "long nguyen": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "ben cat": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "chanh phu hoa": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "vinh tan": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh co": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan uyen": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "vung tau": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tam thang": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "rach dua": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "phuoc thang": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan phuoc": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan vinh loc": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh loi": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan nhut binh chanh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "hung long": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh hung": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "cu chi": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tan an hoi": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "thai my": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "an nhon tay": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "nhuan duc": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "phu hoa dong": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "binh my": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "hoc mon": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "xuan thoi son": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "ba diem": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "nha be": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "hiep phuoc": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "thuong tan": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "bac tan uyen": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "phu giao": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "phuoc hoa": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "phuoc thanh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "an long": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "tru van tho": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "bau bang": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "long hoa": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "thanh an": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "dau tieng": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "minh thanh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "long son": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "chau pha": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "I"
+  }
+ ],
+ "ba ria": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "long huong": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "tam long": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "binh khanh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "an thoi dong": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "can gio": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "thanh an; cac xa kim long": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "chau duc": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "ngai giao": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "nghia thanh": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "long hai": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "long dien": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "con dao": [
+  {
+   "province": "Thành phố Hồ Chí Minh",
+   "region": "II"
+  }
+ ],
+ "long an": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "khanh hau": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "an ninh": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "hau nghia": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "duc lap": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "my hanh": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "duc hoa": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "thanh loi": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "binh duc": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "luong hoa": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "ben luc": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "my yen": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "phuoc ly": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "can giuoc": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "phuoc vinh tay": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "tan tap": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "I"
+  }
+ ],
+ "kien tuong": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "ninh thanh": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "hoa thanh": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "II"
+  }
+ ],
+ "thanh dien": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "trang bang": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "an tinh": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "go dau": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "tuyen thanh": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "binh hiep": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "thu thua": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "my an": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "my thanh": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "tan long": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "long cang": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "rach kien": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "my le": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "tan lan": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "can duoc": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "long huu": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "hung thuan": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "phuoc chi": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "thanh duc": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "truong mit": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "nhut tao": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "II"
+  }
+ ],
+ "thanh phuoc": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "thanh hoa": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "tan tay": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "my quy": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "duc hue": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "vam co": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "tan tru": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "thuan my": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "an luc long": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "tam vu": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "vinh cong": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "cau khoi": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "duong minh chau": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "tan dong": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "tan bien": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "thanh binh": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "tra vong": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "phuoc vinh": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "hoa hoi": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "ninh dien": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "chau thanh": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  },
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "hao duoc": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "long chu": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "long thuan": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "ben cau": [
+  {
+   "province": "Tỉnh Tây Ninh",
+   "region": "III"
+  }
+ ],
+ "my tho": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  }
+ ],
+ "dao thanh": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  }
+ ],
+ "my phong": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  }
+ ],
+ "thoi son": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  }
+ ],
+ "trung an": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  }
+ ],
+ "tan huong": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  }
+ ],
+ "long dinh": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  }
+ ],
+ "vinh kim": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  }
+ ],
+ "kim son": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "II"
+  }
+ ],
+ "go cong": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "son qui": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "binh xuan": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "my phuoc tay": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "cai lay": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "nhi quy": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "an binh": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  },
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "hong ngu": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "thuong lac": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "cao lanh": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "my ngai": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "my tra": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "sa dec": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "tan phuoc 1": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "tan phuoc 2": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "tan phuoc 3": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "hung thanh": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "my tinh an": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "luong hoa lac": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "tan thuan binh": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "cho gao": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "an thanh thuy": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "binh ninh": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "tan duong": [
+  {
+   "province": "Tỉnh Đồng Tháp",
+   "region": "III"
+  }
+ ],
+ "long chau": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "tan hanh": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "tan ngai": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "cai von": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "an hoi": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "phu khuong": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "ben tre": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "phu tan": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "long duc": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "tra vinh": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "nguyet hoa": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "hoa thuan": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "phu tuc": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "giao long": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "tien thuy": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "II"
+  }
+ ],
+ "duyen hai": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "truong long hoa": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "cai nhum": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "tan long hoi": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "nhon phu": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "long ho": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "phu quoi": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "dong khoi": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "mo cay": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "thanh thoi": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "an dinh": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "huong my": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "tan thuy": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "bao thanh": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "ba tri": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "tan xuan": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "my chanh hoa": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "an ngai trung": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "an hiep": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "thoi thuan": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "binh dai": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "loc thuan": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "chau hung": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "hung nhuong": [
+  {
+   "province": "Tỉnh Vĩnh Long",
+   "region": "III"
+  }
+ ],
+ "long xuyen": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "my thoi": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "chau doc": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "vinh te": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "vinh thong": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "rach gia": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "ha tien": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "to chau; cac xa my hoa hung": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "phu quoc": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "tho chau": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "II"
+  }
+ ],
+ "long phu; cac xa tan an": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "chau phong": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "vinh xuong": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "chau phu": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "my duc": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "vinh thanh trung": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "can dang": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "vinh hanh": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "thoai son": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "oc eo": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "dinh my": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "vinh trach": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  },
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "II"
+  }
+ ],
+ "tay phu": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "thanh loc": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "hoa dien": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "kien luong": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "son hai": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "hon nghe": [
+  {
+   "province": "Tỉnh An Giang",
+   "region": "III"
+  }
+ ],
+ "my xuyen": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "ninh kieu": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "cai khe": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "thoi an dong": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "binh thuy": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "long tuyen": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "cai rang": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "o mon": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "thoi long": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "phuoc thoi": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "trung nhut": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "thot not": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "thuan hung": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "tan loc": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "soc trang": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "II"
+  }
+ ],
+ "vi thanh": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "vi tan": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "nga bay": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "vinh phuoc": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "vinh chau": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "khanh hoa": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "nga nam": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "my quoi": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "nhon ai": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "truong long": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "thoi lai": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "truong xuan": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "truong thanh": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "co do": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "dong hiep": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "thanh phu": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "thoi hung": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "trung hung": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "vinh trinh": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "thanh quoi": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "hoa luu": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "truong long tay": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "dong phuoc": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "phu huu": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "lai hoa": [
+  {
+   "province": "Thành phố Cần Thơ",
+   "region": "III"
+  }
+ ],
+ "an xuyen": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "II"
+  }
+ ],
+ "ly van lam": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "II"
+  }
+ ],
+ "bac lieu": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "II"
+  }
+ ],
+ "gia rai": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "lang tron": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "u minh": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "nguyen phich": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "khanh lam": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "khanh an": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "khanh binh": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "da bac": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "khanh hung": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "song doc": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "tran van thoi": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "dat moi": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "nam can": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "luong the tran": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "hung my": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "cai nuoc": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "phong thanh": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "vinh my": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ],
+ "vinh hau": [
+  {
+   "province": "Tỉnh Cà Mau",
+   "region": "III"
+  }
+ ]
+}

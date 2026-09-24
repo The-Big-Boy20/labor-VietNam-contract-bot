@@ -1,0 +1,7 @@
+# Chunk check — BLLĐ 2019 (45/2019/QH14)
+# Nguồn: chunks_v3.json
+# Tổng chunk BLLĐ trong file: 223
+# Điều distinct: 220
+# Kết quả: 220/220 Điều — PASS
+
+## Không thiếu Điều nào (1..220 đủ)
