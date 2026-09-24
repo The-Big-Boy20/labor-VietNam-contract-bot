@@ -1,0 +1,58 @@
+meta:
+  version: v1
+  effective_from: '2026-01-01'
+  last_reviewed: '2026-09-24'
+rules:
+- id: thu_viec
+  name: Thời gian thử việc tối đa
+  condition: Thời gian thử việc không quá 180 ngày đối với công việc của người quản
+    lý doanh nghiệp; không quá 60 ngày đối với công việc có chức danh nghề nghiệp
+    cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên; không quá 30 ngày đối với
+    công việc có chức danh nghề nghiệp cần trình độ trung cấp, công nhân kỹ thuật,
+    nhân viên nghiệp vụ; không quá 06 ngày làm việc đối với công việc khác.
+  threshold_values:
+    manager_max_days: 180
+    college_plus_max_days: 60
+    intermediate_max_days: 30
+    other_max_days: 6
+  legal_basis: Điều 25 Bộ luật Lao động 2019 (45/2019/QH14)
+  source_url: https://vbpl.vn/van-ban/chi-tiet/bo-luat-lao-dong-so-45-2019-qh14--139264
+  effective_from: '2021-01-01'
+- id: lam_them_gio
+  name: Giới hạn giờ làm thêm
+  condition: Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi có
+    sự đồng ý của người lao động; bảo đảm số giờ làm thêm không quá 50% số giờ làm
+    việc bình thường trong 01 ngày; không quá 40 giờ trong 01 tháng; không quá 200
+    giờ trong 01 năm (trừ các trường hợp được làm tới 300 giờ/năm theo khoản 3 Điều
+    107).
+  threshold_values:
+    day_ratio_max: 0.5
+    month_max_hours: 40
+    year_max_hours: 200
+    year_max_hours_exception: 300
+  legal_basis: Điều 107 Bộ luật Lao động 2019 (45/2019/QH14)
+  source_url: https://vbpl.vn/van-ban/chi-tiet/bo-luat-lao-dong-so-45-2019-qh14--139264
+  effective_from: '2021-01-01'
+- id: luong_toi_thieu_vung
+  name: Mức lương tối thiểu vùng
+  condition: Người sử dụng lao động hoạt động trên địa bàn thuộc vùng nào thì áp dụng
+    mức lương tối thiểu của vùng đó. Đơn vị/chi nhánh hoạt động ở địa bàn nào áp mức
+    của địa bàn đó; nếu trong khu công nghiệp/khu chế xuất/khu công nghệ cao nằm trên
+    nhiều địa bàn có mức khác nhau thì áp mức cao nhất.
+  threshold_values:
+    vung_I:
+      month: 5310000
+      hour: 25500
+    vung_II:
+      month: 4730000
+      hour: 22700
+    vung_III:
+      month: 4140000
+      hour: 20000
+    vung_IV:
+      month: 3700000
+      hour: 17800
+  legal_basis: Điều 3 Nghị định 293/2025/NĐ-CP
+  source_url: https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-293-2025-nd-cp-quy-dinh-muc-luong-toi-thieu-doi-voi-nguoi-lao-dong-lam-viec-theo-hop-dong-lao-dong--183939
+  effective_from: '2026-01-01'
+  lookup_file: data/law/wage_zones_293.csv
