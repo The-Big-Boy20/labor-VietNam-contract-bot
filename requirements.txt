@@ -1,1 +1,18 @@
+# Thư viện Python cần cho dự án (cài bằng: pip install -r requirements.txt)
+python-docx        # đọc hợp đồng .docx (ingest)
+numpy              # vector hoá, tính cosine
+scikit-learn       # TF-IDF backend cho retriever
+pandas             # xử lý bảng trong notebook
+pyyaml             # đọc config/thresholds.yaml
+matplotlib         # vẽ biểu đồ trong notebook
 
+# Retriever backend chính (embedding tiếng Việt); nếu không cài được sẽ tự lùi về TF-IDF
+sentence-transformers
+
+# Chỉ cần khi muốn chạy/dựng lại notebook
+nbformat
+jupyter
+nbconvert
+
+# Ngoài pip: cần cài Ollama và kéo mô hình qwen2.5:7b cho phần Q&A và phát hiện mập mờ/bất lợi.
+#   https://ollama.com  ->  ollama pull qwen2.5:7b

@@ -1,58 +1,104 @@
+# thresholds.yaml — Ngưỡng pháp lý đã xác minh cho rule engine HĐLĐ
+# Cập nhật: 2026-09-24. Mọi con số đối chiếu nguồn chính thống (xem 'nguon').
+# Quy ước: tiền = VND. Khi luật đổi -> chạy script refresh cập nhật file này.
+
 meta:
-  version: v1
-  effective_from: '2026-01-01'
-  last_reviewed: '2026-09-24'
-rules:
-- id: thu_viec
-  name: Thời gian thử việc tối đa
-  condition: Thời gian thử việc không quá 180 ngày đối với công việc của người quản
-    lý doanh nghiệp; không quá 60 ngày đối với công việc có chức danh nghề nghiệp
-    cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên; không quá 30 ngày đối với
-    công việc có chức danh nghề nghiệp cần trình độ trung cấp, công nhân kỹ thuật,
-    nhân viên nghiệp vụ; không quá 06 ngày làm việc đối với công việc khác.
-  threshold_values:
-    manager_max_days: 180
-    college_plus_max_days: 60
-    intermediate_max_days: 30
-    other_max_days: 6
-  legal_basis: Điều 25 Bộ luật Lao động 2019 (45/2019/QH14)
-  source_url: https://vbpl.vn/van-ban/chi-tiet/bo-luat-lao-dong-so-45-2019-qh14--139264
-  effective_from: '2021-01-01'
-- id: lam_them_gio
-  name: Giới hạn giờ làm thêm
-  condition: Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi có
-    sự đồng ý của người lao động; bảo đảm số giờ làm thêm không quá 50% số giờ làm
-    việc bình thường trong 01 ngày; không quá 40 giờ trong 01 tháng; không quá 200
-    giờ trong 01 năm (trừ các trường hợp được làm tới 300 giờ/năm theo khoản 3 Điều
-    107).
-  threshold_values:
-    day_ratio_max: 0.5
-    month_max_hours: 40
-    year_max_hours: 200
-    year_max_hours_exception: 300
-  legal_basis: Điều 107 Bộ luật Lao động 2019 (45/2019/QH14)
-  source_url: https://vbpl.vn/van-ban/chi-tiet/bo-luat-lao-dong-so-45-2019-qh14--139264
-  effective_from: '2021-01-01'
-- id: luong_toi_thieu_vung
-  name: Mức lương tối thiểu vùng
-  condition: Người sử dụng lao động hoạt động trên địa bàn thuộc vùng nào thì áp dụng
-    mức lương tối thiểu của vùng đó. Đơn vị/chi nhánh hoạt động ở địa bàn nào áp mức
-    của địa bàn đó; nếu trong khu công nghiệp/khu chế xuất/khu công nghệ cao nằm trên
-    nhiều địa bàn có mức khác nhau thì áp mức cao nhất.
-  threshold_values:
-    vung_I:
-      month: 5310000
-      hour: 25500
-    vung_II:
-      month: 4730000
-      hour: 22700
-    vung_III:
-      month: 4140000
-      hour: 20000
-    vung_IV:
-      month: 3700000
-      hour: 17800
-  legal_basis: Điều 3 Nghị định 293/2025/NĐ-CP
-  source_url: https://vbpl.vn/van-ban/chi-tiet/nghi-dinh-so-293-2025-nd-cp-quy-dinh-muc-luong-toi-thieu-doi-voi-nguoi-lao-dong-lam-viec-theo-hop-dong-lao-dong--183939
-  effective_from: '2026-01-01'
-  lookup_file: data/law/wage_zones_293.csv
+  cap_nhat: "2026-09-24"
+  ghi_chu: "Số liệu áp dụng từ 01/01/2026 trở đi"
+
+luong_toi_thieu_vung:
+  hieu_luc: "2026-01-01"
+  can_cu: "BLLĐ 2019, Điều 91; Nghị định 293/2025/NĐ-CP"
+  nguon: "https://vanban.chinhphu.vn/?pageid=27160&docid=215832"
+  thang:   # đồng/tháng
+    vung_1: 5310000
+    vung_2: 4730000
+    vung_3: 4140000
+    vung_4: 3700000
+  gio:     # đồng/giờ
+    vung_1: 25500
+    vung_2: 22700
+    vung_3: 20000
+    vung_4: 17800
+
+thu_viec:
+  can_cu: "BLLĐ 2019, Điều 24, 25, 26, 27"
+  so_ngay_toi_da:            # theo tính chất công việc/trình độ
+    nguoi_quan_ly_dn: 180
+    trinh_do_cao_dang_tro_len: 60
+    trung_cap_nghiep_vu_ky_thuat: 30
+    cong_viec_khac: 6        # ngày làm việc
+  luong_thu_viec_toi_thieu_phan_tram: 85   # >= 85% lương công việc
+  so_lan_thu_viec_toi_da: 1
+
+thoi_gio_lam_viec:
+  can_cu: "BLLĐ 2019, Điều 105, 106, 107"
+  binh_thuong_gio_ngay: 8
+  binh_thuong_gio_tuan: 48
+  theo_tuan_gio_ngay_toi_da: 10   # nếu tính theo tuần
+  lam_them:
+    phan_tram_ngay_toi_da: 50     # <= 50% giờ bình thường/ngày
+    gio_thang_toi_da: 40
+    gio_nam_toi_da: 200
+    gio_nam_toi_da_dac_biet: 300  # một số ngành/trường hợp
+    can_su_dong_y_nld: true
+
+luong_lam_them:   # % so với đơn giá giờ bình thường (mức tối thiểu)
+  can_cu: "BLLĐ 2019, Điều 98"
+  ngay_thuong_phan_tram: 150
+  ngay_nghi_tuan_phan_tram: 200
+  ngay_le_tet_phan_tram: 300
+  ban_dem_cong_them_phan_tram: 30
+
+hop_dong:
+  can_cu: "BLLĐ 2019, Điều 20"
+  xac_dinh_thoi_han_thang_toi_da: 36
+  so_lan_ky_xac_dinh_toi_da: 1        # sau đó phải ký không xác định thời hạn
+  ngay_ky_moi_sau_het_han: 30         # quá 30 ngày -> thành không xác định thời hạn
+  so_ban_toi_thieu: 2                 # Điều 14: 2 bản, mỗi bên giữ 1
+
+bao_hiem:
+  hieu_luc: "2026-01-01"
+  can_cu: "Luật BHXH 2024 (Đ.32,33,34); Luật Việc làm 2025 (Đ.33 - BHTN); NĐ 158/2025 (BHXH); NĐ 188/2025 (BHYT)"
+  nguoi_lao_dong_phan_tram:
+    bhxh: 8
+    bhyt: 1.5
+    bhtn: 1
+    tong: 10.5
+  nguoi_su_dung_lao_dong_phan_tram:
+    bhxh: 14
+    bhyt: 3
+    bhtn: 1
+    tnld_bnn: 0.5
+    tong: 21.5
+  bat_buoc: true   # không được thay bằng tiền mặt
+
+tra_luong:
+  can_cu: "BLLĐ 2019, Điều 94, 96, 97"
+  ky_han_luong_thang: "1 lần/tháng hoặc nửa tháng 1 lần, thời điểm cố định"
+  ky_han_luong_gio_ngay_tuan_gop_toi_da_ngay: 15
+  phi_ngan_hang_do: "nguoi_su_dung_lao_dong"
+  cham_tra_bat_kha_khang_ngay_toi_da: 30
+
+don_phuong_cham_dut_nld_bao_truoc_ngay:
+  can_cu: "BLLĐ 2019, Điều 35"
+  khong_xac_dinh_thoi_han: 45
+  xac_dinh_12_den_36_thang: 30
+  duoi_12_thang: 3          # ngày làm việc
+
+thanh_toan_khi_cham_dut:
+  can_cu: "BLLĐ 2019, Điều 48"
+  so_ngay_lam_viec_toi_da: 14
+  truong_hop_dac_biet_ngay_toi_da: 30
+
+khau_tru_boi_thuong:
+  can_cu: "BLLĐ 2019, Điều 102, 129"
+  khau_tru_luong_thang_phan_tram_toi_da: 30
+  boi_thuong_so_suat_thang_luong_toi_da: 3   # nếu thiệt hại <= 10 tháng LTTV
+
+cac_hanh_vi_bi_cam:   # cho loại trai_luat/bat_loi (Điều 17)
+  can_cu: "BLLĐ 2019, Điều 17"
+  danh_muc:
+    - giu_ban_chinh_giay_to_van_bang
+    - buoc_ky_quy_tien_tai_san
+    - buoc_lam_viec_de_tra_no

@@ -1,0 +1,104 @@
+# thresholds.yaml — Ngưỡng pháp lý đã xác minh cho rule engine HĐLĐ
+# Cập nhật: 2026-09-24. Mọi con số đối chiếu nguồn chính thống (xem 'nguon').
+# Quy ước: tiền = VND. Khi luật đổi -> chạy script refresh cập nhật file này.
+
+meta:
+  cap_nhat: "2026-09-24"
+  ghi_chu: "Số liệu áp dụng từ 01/01/2026 trở đi"
+
+luong_toi_thieu_vung:
+  hieu_luc: "2026-01-01"
+  can_cu: "BLLĐ 2019, Điều 91; Nghị định 293/2025/NĐ-CP"
+  nguon: "https://vanban.chinhphu.vn/?pageid=27160&docid=215832"
+  thang:   # đồng/tháng
+    vung_1: 5310000
+    vung_2: 4730000
+    vung_3: 4140000
+    vung_4: 3700000
+  gio:     # đồng/giờ
+    vung_1: 25500
+    vung_2: 22700
+    vung_3: 20000
+    vung_4: 17800
+
+thu_viec:
+  can_cu: "BLLĐ 2019, Điều 24, 25, 26, 27"
+  so_ngay_toi_da:            # theo tính chất công việc/trình độ
+    nguoi_quan_ly_dn: 180
+    trinh_do_cao_dang_tro_len: 60
+    trung_cap_nghiep_vu_ky_thuat: 30
+    cong_viec_khac: 6        # ngày làm việc
+  luong_thu_viec_toi_thieu_phan_tram: 85   # >= 85% lương công việc
+  so_lan_thu_viec_toi_da: 1
+
+thoi_gio_lam_viec:
+  can_cu: "BLLĐ 2019, Điều 105, 106, 107"
+  binh_thuong_gio_ngay: 8
+  binh_thuong_gio_tuan: 48
+  theo_tuan_gio_ngay_toi_da: 10   # nếu tính theo tuần
+  lam_them:
+    phan_tram_ngay_toi_da: 50     # <= 50% giờ bình thường/ngày
+    gio_thang_toi_da: 40
+    gio_nam_toi_da: 200
+    gio_nam_toi_da_dac_biet: 300  # một số ngành/trường hợp
+    can_su_dong_y_nld: true
+
+luong_lam_them:   # % so với đơn giá giờ bình thường (mức tối thiểu)
+  can_cu: "BLLĐ 2019, Điều 98"
+  ngay_thuong_phan_tram: 150
+  ngay_nghi_tuan_phan_tram: 200
+  ngay_le_tet_phan_tram: 300
+  ban_dem_cong_them_phan_tram: 30
+
+hop_dong:
+  can_cu: "BLLĐ 2019, Điều 20"
+  xac_dinh_thoi_han_thang_toi_da: 36
+  so_lan_ky_xac_dinh_toi_da: 1        # sau đó phải ký không xác định thời hạn
+  ngay_ky_moi_sau_het_han: 30         # quá 30 ngày -> thành không xác định thời hạn
+  so_ban_toi_thieu: 2                 # Điều 14: 2 bản, mỗi bên giữ 1
+
+bao_hiem:
+  hieu_luc: "2026-01-01"
+  can_cu: "Luật BHXH 2024 (Đ.32,33,34); Luật Việc làm 2025 (Đ.33 - BHTN); NĐ 158/2025 (BHXH); NĐ 188/2025 (BHYT)"
+  nguoi_lao_dong_phan_tram:
+    bhxh: 8
+    bhyt: 1.5
+    bhtn: 1
+    tong: 10.5
+  nguoi_su_dung_lao_dong_phan_tram:
+    bhxh: 14
+    bhyt: 3
+    bhtn: 1
+    tnld_bnn: 0.5
+    tong: 21.5
+  bat_buoc: true   # không được thay bằng tiền mặt
+
+tra_luong:
+  can_cu: "BLLĐ 2019, Điều 94, 96, 97"
+  ky_han_luong_thang: "1 lần/tháng hoặc nửa tháng 1 lần, thời điểm cố định"
+  ky_han_luong_gio_ngay_tuan_gop_toi_da_ngay: 15
+  phi_ngan_hang_do: "nguoi_su_dung_lao_dong"
+  cham_tra_bat_kha_khang_ngay_toi_da: 30
+
+don_phuong_cham_dut_nld_bao_truoc_ngay:
+  can_cu: "BLLĐ 2019, Điều 35"
+  khong_xac_dinh_thoi_han: 45
+  xac_dinh_12_den_36_thang: 30
+  duoi_12_thang: 3          # ngày làm việc
+
+thanh_toan_khi_cham_dut:
+  can_cu: "BLLĐ 2019, Điều 48"
+  so_ngay_lam_viec_toi_da: 14
+  truong_hop_dac_biet_ngay_toi_da: 30
+
+khau_tru_boi_thuong:
+  can_cu: "BLLĐ 2019, Điều 102, 129"
+  khau_tru_luong_thang_phan_tram_toi_da: 30
+  boi_thuong_so_suat_thang_luong_toi_da: 3   # nếu thiệt hại <= 10 tháng LTTV
+
+cac_hanh_vi_bi_cam:   # cho loại trai_luat/bat_loi (Điều 17)
+  can_cu: "BLLĐ 2019, Điều 17"
+  danh_muc:
+    - giu_ban_chinh_giay_to_van_bang
+    - buoc_ky_quy_tien_tai_san
+    - buoc_lam_viec_de_tra_no
